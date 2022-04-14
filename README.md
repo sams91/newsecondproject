@@ -1,2 +1,2 @@
 # newsecondproject
-My second project with a new laptop.
+My second project with a new laptop. Hello.
